@@ -5,8 +5,8 @@ bricks:
   # Bricks can be imported via version constraint from a registry.
   # Uncomment the following line to import the "hello" brick from BrickHub.
   # hello: 0.1.0+1
-  features_11:
-    path: bricks/features_11
+  features:
+    path: bricks/features
 
   # Bricks can also be imported via remote git url.
   # Uncomment the following lines to import the "widget" brick from git.
